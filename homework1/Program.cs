@@ -1,4 +1,4 @@
-﻿// Показать натуральные числа от M до N, N и M заданы
+﻿// Показать натуральные числа от M до N, N и M  заданы
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 void Recurse(int n,int m)
